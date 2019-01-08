@@ -38,7 +38,7 @@ app.post("/", function (req, res) {
         url: "https://us7.api.mailchimp.com/3.0/lists/7a20d6e975",
         method: "POST",
         headers: {
-            "Authorization": "xavier1 4ae7445fe9ed5aa201fc01781bda0abf-us7"
+            "Authorization": "xavier1 (MAILCHIMP_API_KEY)"
         },
         body: jsonData
     };
@@ -66,10 +66,3 @@ app.post("/failure", function(req, res){
 app.listen(process.env.PORT || 3000, function () {
     console.log("Server is running on port 3000");
 });
-
-
-//API KEY
-//4ae7445fe9ed5aa201fc01781bda0abf-us7
-
-//List ID
-//7a20d6e975
