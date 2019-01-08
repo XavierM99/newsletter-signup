@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="349px" height="349px" viewBox="0 0 349 349" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>ALT: Company Newsletter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Company-Newsletter" transform="translate(-801.000000, -340.000000)" fill-rule="nonzero">
+            <g id="What-Is-A-Company-Newsletter" transform="translate(290.000000, 339.000000)">
+                <g id="ALT:-Company-Newsletter" transform="translate(511.000000, 1.000000)">
+                    <circle id="Oval" fill="#448CB0" cx="174.5" cy="174.5" r="174.5"></circle>
+                    <rect id="Rectangle-path" fill="#3982A1" x="75" y="124" width="200" height="150"></rect>
+                    <polygon id="Shape" fill="#2175AA" points="275 124 189.291667 188.291667 183.479167 182.479167"></polygon>
+                    <polygon id="Shape" fill="#2175AA" points="75 124 160.708333 188.291667 166.520833 182.479167"></polygon>
+                    <rect id="Rectangle-path" fill="#C3EDF5" transform="translate(175.000000, 174.000000) rotate(90.000000) translate(-175.000000, -174.000000) " x="75" y="99" width="200" height="150"></rect>
+                    <polygon id="Shape" fill="#4AB7CB" points="250 139.979167 183.479167 182.479167 189.291667 188.291667 250 142.75"></polygon>
+                    <polygon id="Shape" fill="#4AB7CB" points="100 139.979167 166.520833 182.479167 160.708333 188.291667 100 142.75"></polygon>
+                    <rect id="Rectangle-path" fill="#3982A1" x="166.520833" y="97.8958333" width="65.625" height="12.5"></rect>
+                    <rect id="Rectangle-path" fill="#3982A1" x="166.520833" y="118.729167" width="65.625" height="12.5"></rect>
+                    <rect id="Rectangle-path" fill="#3982A1" x="117.854167" y="139.5625" width="114.291667" height="12.5"></rect>
+                    <polygon id="Shape" fill="#5EA2BE" points="275 274 75 274 75 124"></polygon>
+                    <polygon id="Shape" fill="#5EA2BE" points="75 274 275 274 275 124"></polygon>
+                    <polygon id="Shape" fill="#5EA2BE" points="275 274 75 274 175 174"></polygon>
+                    <polygon id="Shape" fill="#3982A1" points="275 274 194.4375 184.416667 189.291667 188.291667"></polygon>
+                    <polygon id="Shape" fill="#3982A1" points="75 274 155.5625 184.416667 160.708333 188.291667"></polygon>
+                    <rect id="Rectangle-path" fill="#FDA11F" x="117.854167" y="97.8958333" width="40.3333333" height="33.3333333"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
